@@ -1,1 +1,1 @@
-# GitProject
+# GitProject - Bai thuc hanh Git
